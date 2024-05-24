@@ -1,1 +1,2 @@
-# Reading-Eye-For-Bling-By-Using-RaspberryPi
+# major_project
+Reading eye for blind using raspberrypi
